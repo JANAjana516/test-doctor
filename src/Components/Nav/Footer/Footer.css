@@ -1,0 +1,130 @@
+footer img.footerlogo{
+    width: auto;
+    height: 40px;
+    margin: 15px 0px;
+}
+
+footer p{
+    font-size: 17px;
+    color: var(--btn-color);
+}
+
+footer .footer-contact{
+    display: flex;
+}
+
+footer .footer-contact .footer-icon{
+    margin: 10px 20px 0px 0px;
+    width: 40px;
+    height: 40px;
+    background-color: var(--orange-color);
+    line-height: 40px;
+    border: 1px solid var(--orange-color);
+    box-sizing: border-box;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+footer .footer-contact .footer-icon svg{
+    color: #fff;
+    text-align: center;
+    padding-left: 10px;
+}
+
+footer .footer-contact h6{
+    color: var(--orange-color);
+    font-size: 16px;
+}
+footer .footer-contact h4{
+    color: var(--min-color);
+    font-size: 18px;
+    margin-top: 10px;
+}
+footer h2{
+    color: var(--min-color);
+    font-size: 30px;
+    margin: 15px 0px;
+}
+
+footer ul{
+    margin-top: 17px;
+}
+footer ul li{
+    margin-top: 10px;
+}
+footer ul li a{
+    color: #333;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+footer form{
+    margin: 15px 0px;
+}
+footer form input{
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 10px 0px;
+    width: 100%;
+}
+footer form button{
+    width: 100%;
+    background-color: var(--orange-color) !important;
+    border: 1px solid var(--orange-color) !important;
+    color: #fff;
+    border-radius: 10px;
+
+}
+
+footer ul.social li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footerspan{
+    text-align: center;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+.footerspan span.spanO{
+    color: var(--orange-color);
+    display: inline;
+
+}
+.f{
+    margin-left: -90px;
+    margin-top: -30px;
+    width: 60px;
+    height: 60px;
+    animation: move 1s infinite alternate; 
+}
+
+.ff{
+    margin-top: -640px;
+    margin-left: -70px;
+    width: 70px;
+    height: 70px;
+    animation: movee 1s infinite alternate; 
+}
+.fff{
+    animation: movee 1s infinite alternate; 
+}
+
+@keyframes move{
+    0%{
+        transform: translateY(0px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes movee{
+    0%{
+        transform: translateX(0px);
+    }
+    100%{
+        transform: translateX(-10px);
+    }
+}

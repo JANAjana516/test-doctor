@@ -1,0 +1,38 @@
+.lasContaina{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+}
+.lasContaina h5{
+    color: var(--orange-color);
+    margin-bottom: 10px;
+}
+.lasContaina h3{
+    color: var(--min-color);
+    letter-spacing: 1px;
+    font-size: 45px;
+    margin-bottom: 50px;
+}
+.latest{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+    grid-gap: 1px;
+    margin-left: 250px;
+    margin-right: 200px;
+
+}
+
+@media (max-width: 800px) {
+ .lasContaina{
+     height: 100%;
+     margin-top: 500px;
+     align-items: center;
+    }
+ .latest{
+
+    display: inline-block;
+    margin-left: 130px;
+}
+
+  }

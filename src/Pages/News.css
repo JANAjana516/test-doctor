@@ -1,0 +1,62 @@
+.containarNew{
+    width: 250px;
+    height: 350px;
+    border: 1px solid var(--min-color);
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    
+}
+.containarNew img{
+    width: 220px;
+    height: 150px;
+    border-radius: 10px;
+    text-align: center;
+}
+.containarNew .inline{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-gap: 0px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 10px;
+}
+.containarNew .face{
+    width:  35px !important;
+    height: 35px !important;
+    border-radius: 50% !important;
+    margin-left: 3px;
+    
+}
+
+.containarNew .inline p{
+    font-size: 12px;
+    color: var(--orange-color);
+    margin-left: -10px !important;
+    margin-top: 5px;
+}
+.containarNew .inline svg{
+    color: var(--orange-color);
+    margin-top: 10px;
+    margin-left: 19px;
+
+    
+}
+.containarNew h4{
+    font-size: 20px;
+    font-weight: normal;
+    color: var(--min-color);
+}
+.containarNew button{
+    color: var(--min-color);
+    border: 1px solid var(--min-color);
+    border-radius: 8px;
+    width: 65%;
+    height: 30px;
+   font-weight: bold;
+}
+.containarNew button:hover{
+    background-color: var(--min-color);
+    color:white;
+}
