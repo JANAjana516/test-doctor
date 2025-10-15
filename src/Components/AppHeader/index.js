@@ -8,14 +8,14 @@ import { Link } from "react-router-dom";
 function AppHeader() {
 
 
-  useEffect(() => {
-    getComments().then((res) => {
-      setComments(res.comments);
-    });
-    getOrders().then((res) => {
-      setOrders(res.products);
-    });
-  }, []);
+  // useEffect(() => {
+  //   getComments().then((res) => {
+  //     setComments(res.comments);
+  //   });
+  //   getOrders().then((res) => {
+  //     setOrders(res.products);
+  //   });
+  // }, []);
 
   return (
     <div className="AppHeader">
