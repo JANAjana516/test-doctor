@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-doctor/static/css/main.ff61416c.css",
+    "main.js": "/test-doctor/static/js/main.02f5cf05.js",
+    "static/js/787.82ea8e80.chunk.js": "/test-doctor/static/js/787.82ea8e80.chunk.js",
+    "static/media/1.png": "/test-doctor/static/media/1.7c2bc96d67d3eba1d64a.png",
+    "static/media/18.jpg": "/test-doctor/static/media/18.67db6c474a828bd7a0cd.jpg",
+    "index.html": "/test-doctor/index.html",
+    "main.ff61416c.css.map": "/test-doctor/static/css/main.ff61416c.css.map",
+    "main.02f5cf05.js.map": "/test-doctor/static/js/main.02f5cf05.js.map",
+    "787.82ea8e80.chunk.js.map": "/test-doctor/static/js/787.82ea8e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff61416c.css",
+    "static/js/main.02f5cf05.js"
+  ]
+}
