@@ -1,47 +1,33 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> ef2a513fd83f300b392ac15276a4a9652dd9582c
 {
   "name": "antd-demo",
   "version": "0.1.0",
+  "homepage": "https://JANAjana516.github.io/test-doctor",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
-<<<<<<< HEAD
     "@fortawesome/fontawesome-svg-core": "^7.0.1",
     "@fortawesome/free-brands-svg-icons": "^7.0.1",
     "@fortawesome/free-solid-svg-icons": "^7.0.1",
     "@fortawesome/react-fontawesome": "^3.0.2",
-=======
->>>>>>> ef2a513fd83f300b392ac15276a4a9652dd9582c
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.27.3",
     "axios": "^1.7.3",
-<<<<<<< HEAD
     "bootstrap": "^5.3.8",
     "chart.js": "^4.1.2",
     "framer-motion": "^12.23.12",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.10",
-=======
-    "chart.js": "^4.1.2",
-    "react": "^18.2.0",
->>>>>>> ef2a513fd83f300b392ac15276a4a9652dd9582c
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-<<<<<<< HEAD
 
 
 
-=======
->>>>>>> ef2a513fd83f300b392ac15276a4a9652dd9582c
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -50,11 +36,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-<<<<<<< HEAD
-  "homepage": "https://JANAjana516.github.io/Doctor",
-=======
-  "homepage": "https://JANAjana516.github.io/years5Dash",
->>>>>>> ef2a513fd83f300b392ac15276a4a9652dd9582c
+
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -76,8 +58,5 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
-<<<<<<< HEAD
 
-=======
->>>>>>> ef2a513fd83f300b392ac15276a4a9652dd9582c
 }
