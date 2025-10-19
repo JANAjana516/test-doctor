@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 import doctor from '../Assite/1.png';
 import plus from '../Assite/plus.png';
 import './Home.css';
@@ -56,29 +56,3 @@ const Home =()=>{
 }
 
 export default Home;
-=======
-
-import "../App.css";
-
-import AppFooter from "../Components/AppFooter";
-import AppHeader from "../Components/AppHeader";
-import PageContent from "../Components/PageContent";
-import SideMenu from "../Components/SideMenu";
-
-
-
-function Home() {
-  return (
-    <div className="App">
-      
-      <AppHeader />
-      <div className="SideMenuAndPageContent">
-        <SideMenu></SideMenu>
-        <PageContent></PageContent>
-      </div>
-      <AppFooter />
-    </div>
-  );
-}
-export default Home;
->>>>>>> ef2a513fd83f300b392ac15276a4a9652dd9582c

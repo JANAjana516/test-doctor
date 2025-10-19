@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
   margin: 0;
   padding: 0;
@@ -59,7 +59,7 @@ input{
   color: #333;
   font-size: 16px;
   font-family: 'Tajawal';
-=======
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -72,5 +72,4 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
->>>>>>> ef2a513fd83f300b392ac15276a4a9652dd9582c
 }
