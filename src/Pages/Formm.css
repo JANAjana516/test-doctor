@@ -1,9 +1,11 @@
 form{
     background-color: #fff;
     box-sizing: border-box;
-    width: 100%;
+    margin-left: 80px;
     height: auto;
     padding:15px;
+    border: 1px solid var(--orange-color);
+    border-radius: 30px;
 }
 form .form-control{
     margin: 10px 0px;
@@ -49,6 +51,7 @@ form button{
     font-weight: bold;
     letter-spacing: 1px;
     font-size: 20px;
+    border-radius: 30px;
 
 }
 
@@ -56,4 +59,14 @@ form button:hover{
     background-color: #fff !important;
     color: var(--orange-color);
     
+}
+.right{
+	background-image:url(../Assite/3.jpg);
+	height:auto;
+    opacity: .6;
+    margin-left: 250px;
+    padding: 100px;
+    color: var(--min-color);
+
+ 
 }
